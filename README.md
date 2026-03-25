@@ -13,4 +13,5 @@ Prepare Multiple Test Scenarios: Select various scenarios such as: Generating a 
 
 OUTPUT:
 
+[EXP5_Prompting_Analysis_Expanded.pdf](https://github.com/user-attachments/files/26233175/EXP5_Prompting_Analysis_Expanded.pdf)
 RESULT: 
